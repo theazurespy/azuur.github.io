@@ -1,4 +1,4 @@
-baseURL: "localhost"
+baseURL: "https://azuur.net"
 languageCode: "en-us"
 title: "Bryce Murphy Profile"
 theme: hugo-profile
