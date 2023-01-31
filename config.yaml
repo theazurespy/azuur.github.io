@@ -57,7 +57,7 @@ params:
   title: "Hugo Profile"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/iconcircle.png"
+  favicon: "iconcircle.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -121,7 +121,7 @@ params:
     subtitle: "Cybersecurity student @ Indiana Tech"
     content: "Aspiring pentester, network engineer, server system enthusiast."
 
-    image: /images/hero.svg
+    #image: /images/hero.svg
     button:
       enable: true
       name: "My Resume"
